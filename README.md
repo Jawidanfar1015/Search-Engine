@@ -12,8 +12,8 @@
 
 <img width="1235" alt="first" src="https://user-images.githubusercontent.com/99248057/168688186-99def6bb-13af-471d-8ca2-42ea1c1310f0.png">
 
+<img width="1234" alt="second" src="https://user-images.githubusercontent.com/99248057/168688354-68b2665b-b293-48ae-992c-662b67ef0c20.png">
 
-<img width="1235" alt="first" src="https://user-images.githubusercontent.com/99248057/168688216-73911048-f24a-435f-b140-651edd2b8906.png">
 
 
 
